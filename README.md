@@ -6,3 +6,5 @@ Moddo is a web application that uses a simple recommender system to suggest modu
 Moddo is hugely limited by the number of people who use it / the number of entries in the database and hence it could only be effective with a very large sample size. It could be used by students of NUS to have a better sensing of what modules to take based on what their seniors have taken. For example, knowing what modules most people from your major take for Unrestricted Electives or General Education Modules or core/non-core ratio could be useful as well.
 
 This is my first project ever and I hope to learn a lot more from the community. Please send any feedback or advise regarding anything to jasonyip184@gmail.com
+
+Link: https://moddo.shinyapps.io/moddo/
