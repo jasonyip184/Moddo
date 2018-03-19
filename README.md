@@ -8,3 +8,5 @@ Moddo is hugely limited by the number of people who use it / the number of entri
 This is my first project ever and I hope to learn a lot more from the community. Please send any feedback or advise regarding anything to jasonyip184@gmail.com
 
 Link: https://moddo.shinyapps.io/moddo/
+
+![alt text](https://raw.githubusercontent.com/jasonyip184/Moddo/www/1.jpg)
