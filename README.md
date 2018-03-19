@@ -12,11 +12,9 @@ This is my first project ever and I hope to learn a lot more from the community.
 Link: https://moddo.shinyapps.io/moddo/
 
 Login page with Google Authentication
-
 ![picture](www/1.jpg)
 
 Key in major taken in school
-
 ![picture](www/2.jpg)
 
 Enter modules taken
