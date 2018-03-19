@@ -20,10 +20,13 @@ Key in major taken in school
 ![picture](www/2.jpg)
 
 Enter modules taken
+
 ![picture](www/3.jpg)
 
 Recommendation
+
 ![picture](www/4.jpg)
 
 Twitter Crawl on modules taken (in progress)
+
 ![picture](www/5.jpg)
